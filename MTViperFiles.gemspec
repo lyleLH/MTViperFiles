@@ -6,10 +6,10 @@ require "MTViperFiles/version"
 Gem::Specification.new do |spec|
   spec.name          = "MTViperFiles"
   spec.version       = MTViperFiles::VERSION
-  spec.authors       = ["Major Tom "]
+  spec.authors       = ["MTTGCC"]
   spec.email         = ["xbwudi20092@gmail.com"]
-  spec.summary       = %q{Generates Objective C files for Viper Module Initialization.}
-  spec.description   = %q{Creates all the files and setup required for Viper Architecture in iOS.}
+  spec.summary       = %q{Generates Viper Module Files.}
+  spec.description   = %q{Creates iOS Viper Architecture Files.}
   spec.homepage      = "https://github.com/lyle92"
   spec.licenses      = "MIT"
   spec.files         = `git ls-files -z`.split("\x0")
