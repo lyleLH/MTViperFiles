@@ -6,7 +6,8 @@ Install gem with:
 gem install MTViperFiles 
 ```
 
-clone 本repo
+`clone` 本 `repo`
+
 ```
 gem build 
 ```
