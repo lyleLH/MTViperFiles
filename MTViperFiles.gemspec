@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "MTViperFiles"
   spec.version       = MTViperFiles::VERSION
   spec.authors       = ["Major Tom "]
-  spec.email         = ["v2top1lyle@gmail.com"]
+  spec.email         = ["xbwudi20092@gmail.com"]
   spec.summary       = %q{Generates Objective C files for Viper Module Initialization.}
   spec.description   = %q{Creates all the files and setup required for Viper Architecture in iOS.}
   spec.homepage      = "https://github.com/lyle92"
